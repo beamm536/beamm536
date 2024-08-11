@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @beamm536
-- 👀 I’m interested in programming
+- 👀 I’m interested in programming, coding and everything realted to this :)
 - 🌱 I’m currently learning SpringBoot
 - 📫 LinkedIn: https://www.linkedin.com/in/beatriz-moreno-martin/
 - 📨 Email: beaamm023@gmail.com
