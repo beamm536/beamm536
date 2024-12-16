@@ -14,7 +14,7 @@ commitment, dedication, teamwork skills, and my ability to quickly adapt to chan
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: Try different technologies and show others how amazing is this programming world</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning about Ciber-Security <br>🎯 Goals: Try different technologies and show others how amazing is this programming world</p>
 
 ###
 
