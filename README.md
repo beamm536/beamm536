@@ -19,7 +19,7 @@ commitment, dedication, teamwork skills, and my ability to quickly adapt to chan
 ###
 
 ###
-
+<h2 align="left">Technologies</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="react logo"  />
   <img width="12" />  
