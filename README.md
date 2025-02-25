@@ -62,6 +62,10 @@ commitment, dedication, teamwork skills, and my ability to quickly adapt to chan
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="nestjs logo"  />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="javascript logo"  />
+  img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/react.svg" height="40" alt="nestjs logo"  />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/angular19.svg" height="40" alt="javascript logo"  />
 </div>
 
 ###
