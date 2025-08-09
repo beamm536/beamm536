@@ -20,7 +20,7 @@ commitment, dedication, teamwork skills, and my ability to quickly adapt to chan
 
 ###
 <h2 align="left">Technologies</h2>
-<a href="https://emoji.gg/emoji/9509_abongoblob"><img src="https://cdn3.emoji.gg/emojis/9509_abongoblob.gif" width="64px" height="64px" alt="abongoblob"></a>
+<a href="https://emoji.gg/emoji/9509_abongoblob"><img src="https://cdn3.emoji.gg/emojis/9509_abongoblob.gif" width="24px" height="24px" alt="abongoblob"></a>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="react logo"  />
   <img width="12" />  
