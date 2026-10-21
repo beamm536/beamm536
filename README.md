@@ -7,14 +7,12 @@
 ###
 
 <h2 align="left">About me</h2>
-<p>I am a student of Cross-Platform and Web Application Development (DAM), currently pursuing my
-higher education with a great enthusiasm for learning new technologies that enable me to
-continuously improve my skills and experience in programming. I am recognized for my
-commitment, dedication, teamwork skills, and my ability to quickly adapt to changes.</p>
+<p>I am a student of Cross-Platform and Web Application Development (DAM), and currently pursuing Network Computer Systems Administration (ASIR). I'm a passionate about technology, with a strong enthusiasm for learning new technologies that allow me to grow in both software development and systems management. 
+I am recognized for my commitment, dedication, teamwork, and ability to quickly adapt to new challenges.</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning about Ciber-Security <br>🎯 Goals: Try different technologies and show others how amazing is this programming world</p>
+<p align="left">✨ Creating bugs since 2023<br>🎯 Goals: Try different technologies and show others how amazing is this programming world</p>
 
 ###
 
